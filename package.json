@@ -1,0 +1,23 @@
+{
+  "name": "compile-sass-with-gulp",
+  "version": "1.0.0",
+  "description": "Example of how to compile SASS into CSS syntax using Gulp task runner.",
+  "main": "compile-sass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedosejev/compile-sass-with-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedosejev/compile-sass-with-gulp/issues"
+  },
+  "homepage": "https://github.com/fedosejev/compile-sass-with-gulp",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
