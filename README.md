@@ -2,6 +2,6 @@
 
 Example of how to compile SASS into CSS syntax using Gulp task runner.
 
-## Resources
+## Learn more
 
 http://www.sitepoint.com/simple-gulpy-workflow-sass/
